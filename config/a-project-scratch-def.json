@@ -1,0 +1,10 @@
+{
+  "orgName": "john company",
+  "edition": "Enterprise",
+  "features": [],
+  "objectSettings": { 
+    "account": {
+      "defaultRecordType": "default"
+    }
+  }
+}

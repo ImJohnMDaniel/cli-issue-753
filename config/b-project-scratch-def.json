@@ -1,0 +1,29 @@
+{
+  "orgName": "john company",
+  "edition": "Enterprise",
+  "features": [
+    "FieldService:10",
+    "FieldServiceDispatcherUser:5",
+    "FieldServiceMobileUser:5",
+    "FieldServiceSchedulingUser:10"
+  ],
+  "hasSampleData": false,
+  "country": "US",
+  "objectSettings": { 
+    "account": {
+      "defaultRecordType": "default"
+    },
+    "case": {
+      "defaultRecordType": "default"
+    },
+    "contact": {
+      "defaultRecordType": "default"
+    }
+  },
+  "settings": {
+    "fieldServiceSettings": {
+      "enableWorkOrders": true,
+      "fieldServiceOrgPref": true
+    }
+  }
+}
